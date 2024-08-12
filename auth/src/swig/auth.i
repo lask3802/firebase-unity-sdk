@@ -54,6 +54,7 @@
 #include "app/memory/shared_ptr.h"
 #include "app/src/cpp_instance_manager.h"
 #include "auth/src/include/firebase/auth.h"
+#include "auth/src/data.h"
 
 #include <stdexcept>
 #include <algorithm>
